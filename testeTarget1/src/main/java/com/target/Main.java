@@ -10,6 +10,12 @@ public class Main {
             k += 1;
             soma += k;
         }
+
+        /**
+         * Ao final do processamento a soma tem valor = 91
+         */
+
         System.out.println(soma);
+
     }
 }
